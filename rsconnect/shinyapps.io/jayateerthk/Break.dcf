@@ -1,0 +1,12 @@
+name: Break
+title: Break
+username:
+account: jayateerthk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 232988
+bundleId: 1064371
+url: https://jayateerthk.shinyapps.io/Break/
+when: 1510119424.96577
+asMultiple: FALSE
+asStatic: FALSE
